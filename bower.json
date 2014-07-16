@@ -28,7 +28,7 @@
     ],
 
     "license": "Public",
-    "homepage": "https://github.com/propcom/fe-basic-3col-menu",
+    "homepage": "https://github.com/propcom/fe-basic-3col-menu.git",
 
     "ignore" : [
 
@@ -41,7 +41,7 @@
 
     "install" : {
 
-        "menu.php" : "httpdocs/assets"
+        "menu.php" : "fuel/app/views/inc"
 
     }
 
