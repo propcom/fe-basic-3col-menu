@@ -1,0 +1,48 @@
+{
+
+    "name": "3col-menu",
+    "authors": [
+
+        "Steven Mann"
+
+    ],
+
+    "description": "Basic 3 column food menu",
+    "main": "menu.php",
+    "repository": {
+
+        "type" : "git",
+        "url" : "https://github.com/propcom/fe-basic-3col-menu.git"
+
+    },
+
+    "keywords": [
+
+        "menu",
+        "responsive",
+        "Propeller",
+        "propcomm",
+        "propeller",
+        "propcom"
+
+    ],
+
+    "license": "Public",
+    "homepage": "https://github.com/propcom/fe-basic-3col-menu",
+
+    "ignore" : [
+
+        "/sass/",
+        "/css/",
+        "/img/",
+        "/index.html"
+
+    ],
+
+    "install" : {
+
+        "menu.php" : "httpdocs/assets"
+
+    }
+
+}
